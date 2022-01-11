@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    background: linear-gradient(plum, powderblue, palegoldenrod);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#arrayBake {
+    border: cornsilk solid 10px;
+    height: 225px;
+    width: 250px;
+}
+
+#aboutbaking {
+    color: black;
+}
+
+#about {
+    background-color: white;
+}
+
+button {
+    background: linear-gradient(plum, powderblue, palegoldenrod);
+    border: white solid 3px;
+    color: white;
+}
+
+.menu {
+    font-family: cursive;
+    position: fixed;
+    cursor: pointer;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    width: 100%;
+    background-color: white;
+    width: 100%
+}
+
+.links {
+    color: white;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 15px;
+    display: inline;
+    float: left
+}
+
+.links:hover {
+    background: linear-gradient(pink, cornsilk);
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+#header1 {
+    color: white;
+    font-family: 'Bonbon', cursive;
+    font-size: 50px;
+}
+
+#aboutbakingh1 {
+    color: black;
+}
+
+#redvelvetcake {
+    color: black;
+}
+
+#img:hover {
+    transform: scale(1.1);
+}
+
+img {
+    height: 225px;
+    width: 250px;
+}
+
+#contact {
+    background-color: coral;
+    width: 100%;
+}
+
+#mail {
+    color: whitesmoke;
+
+}
+
+#insta {
+    color: whitesmoke;
+}
